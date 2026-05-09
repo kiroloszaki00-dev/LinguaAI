@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.onhercules.fluen_app.twa",
+        "sha256_cert_fingerprints": ["89:E5:93:3F:39:D2:6A:54:82:1B:DB:3B:39:7A:1E:45:BB:9F:70:30:8C:F9:B6:57:28:1D:CD:73:9A:DA:D8:D3"]
+      }
+    }]
